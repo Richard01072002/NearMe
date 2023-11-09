@@ -184,9 +184,5 @@ Best service from servers in the market. 153/2, Bagalur Main Rd, Vinayak Nagar, 
 
 ![image](https://github.com/Richard01072002/NearMe/assets/141472248/89d9cd42-2922-4b98-9bec-9b069206047a)
 
-
-## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
