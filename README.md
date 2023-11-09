@@ -176,6 +176,8 @@ Best service from servers in the market. 153/2, Bagalur Main Rd, Vinayak Nagar, 
 
 ![image](https://github.com/Richard01072002/NearMe/assets/141472248/e376c156-f9b3-4697-bd40-d569ebf18de6)
 
+![image](https://github.com/Richard01072002/NearMe/assets/141472248/e1871123-c2c4-43ea-b962-0e2def8a47eb)
+
 ![image](https://github.com/Richard01072002/NearMe/assets/141472248/9de43ec9-f172-4423-a45e-7726a5eee280)
 
 ![image](https://github.com/Richard01072002/NearMe/assets/141472248/ea94c57c-5b45-47eb-a46d-c032aac51d5c)
